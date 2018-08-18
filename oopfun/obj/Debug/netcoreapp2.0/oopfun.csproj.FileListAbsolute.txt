@@ -1,0 +1,11 @@
+C:\Users\Raymond\Desktop\Netcore\practice\oopfun\bin\Debug\netcoreapp2.0\oopfun.deps.json
+C:\Users\Raymond\Desktop\Netcore\practice\oopfun\bin\Debug\netcoreapp2.0\oopfun.runtimeconfig.json
+C:\Users\Raymond\Desktop\Netcore\practice\oopfun\bin\Debug\netcoreapp2.0\oopfun.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\Netcore\practice\oopfun\bin\Debug\netcoreapp2.0\oopfun.dll
+C:\Users\Raymond\Desktop\Netcore\practice\oopfun\bin\Debug\netcoreapp2.0\oopfun.pdb
+C:\Users\Raymond\Desktop\Netcore\practice\oopfun\obj\Debug\netcoreapp2.0\oopfun.csprojResolveAssemblyReference.cache
+C:\Users\Raymond\Desktop\Netcore\practice\oopfun\obj\Debug\netcoreapp2.0\oopfun.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\oopfun\obj\Debug\netcoreapp2.0\oopfun.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\oopfun\obj\Debug\netcoreapp2.0\oopfun.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\Netcore\practice\oopfun\obj\Debug\netcoreapp2.0\oopfun.dll
+C:\Users\Raymond\Desktop\Netcore\practice\oopfun\obj\Debug\netcoreapp2.0\oopfun.pdb

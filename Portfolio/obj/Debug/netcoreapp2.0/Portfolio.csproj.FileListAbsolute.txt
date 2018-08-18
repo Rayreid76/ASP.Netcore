@@ -1,0 +1,11 @@
+C:\Users\Raymond\Desktop\Netcore\practice\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.deps.json
+C:\Users\Raymond\Desktop\Netcore\practice\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.runtimeconfig.json
+C:\Users\Raymond\Desktop\Netcore\practice\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\Netcore\practice\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.dll
+C:\Users\Raymond\Desktop\Netcore\practice\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.pdb
+C:\Users\Raymond\Desktop\Netcore\practice\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\Netcore\practice\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.dll
+C:\Users\Raymond\Desktop\Netcore\practice\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.pdb
+C:\Users\Raymond\Desktop\netcore\practice\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.csprojResolveAssemblyReference.cache
