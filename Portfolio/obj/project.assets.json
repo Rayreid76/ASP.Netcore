@@ -12534,17 +12534,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Raymond\\.nuget\\packages\\": {}
+    "C:\\Users\\Raymond\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raymond\\Desktop\\netcore\\practice\\Portfolio\\Portfolio.csproj",
+      "projectUniqueName": "C:\\Users\\Raymond\\Desktop\\Netcore\\practice\\Portfolio\\Portfolio.csproj",
       "projectName": "Portfolio",
-      "projectPath": "C:\\Users\\Raymond\\Desktop\\netcore\\practice\\Portfolio\\Portfolio.csproj",
+      "projectPath": "C:\\Users\\Raymond\\Desktop\\Netcore\\practice\\Portfolio\\Portfolio.csproj",
       "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raymond\\Desktop\\netcore\\practice\\Portfolio\\obj\\",
+      "outputPath": "C:\\Users\\Raymond\\Desktop\\Netcore\\practice\\Portfolio\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\Raymond\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],

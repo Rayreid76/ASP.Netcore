@@ -4,14 +4,14 @@ namespace Portfolio.Controllers
 {
     public class PortfolioController : Controller
     {
-        private const string V = "{name}";
-
-        [Route("")]
-        [HttpGet]
         
-        public string Index()
+
+        
+        [HttpGet("")]
+        
+        public ViewResult Index()
         {
-            return "Hello, this is the index page.";
+            return View();
         }
     }
 }
