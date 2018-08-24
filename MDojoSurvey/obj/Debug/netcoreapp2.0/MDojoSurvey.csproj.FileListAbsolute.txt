@@ -1,0 +1,11 @@
+C:\Users\Raymond\Desktop\Netcore\practice\MDojoSurvey\bin\Debug\netcoreapp2.0\MDojoSurvey.deps.json
+C:\Users\Raymond\Desktop\Netcore\practice\MDojoSurvey\bin\Debug\netcoreapp2.0\MDojoSurvey.runtimeconfig.json
+C:\Users\Raymond\Desktop\Netcore\practice\MDojoSurvey\bin\Debug\netcoreapp2.0\MDojoSurvey.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\Netcore\practice\MDojoSurvey\bin\Debug\netcoreapp2.0\MDojoSurvey.dll
+C:\Users\Raymond\Desktop\Netcore\practice\MDojoSurvey\bin\Debug\netcoreapp2.0\MDojoSurvey.pdb
+C:\Users\Raymond\Desktop\Netcore\practice\MDojoSurvey\obj\Debug\netcoreapp2.0\MDojoSurvey.csprojResolveAssemblyReference.cache
+C:\Users\Raymond\Desktop\Netcore\practice\MDojoSurvey\obj\Debug\netcoreapp2.0\MDojoSurvey.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\MDojoSurvey\obj\Debug\netcoreapp2.0\MDojoSurvey.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\MDojoSurvey\obj\Debug\netcoreapp2.0\MDojoSurvey.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\Netcore\practice\MDojoSurvey\obj\Debug\netcoreapp2.0\MDojoSurvey.dll
+C:\Users\Raymond\Desktop\Netcore\practice\MDojoSurvey\obj\Debug\netcoreapp2.0\MDojoSurvey.pdb
