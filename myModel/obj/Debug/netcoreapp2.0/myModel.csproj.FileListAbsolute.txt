@@ -1,0 +1,11 @@
+C:\Users\Raymond\Desktop\Netcore\practice\myModel\bin\Debug\netcoreapp2.0\myModel.deps.json
+C:\Users\Raymond\Desktop\Netcore\practice\myModel\bin\Debug\netcoreapp2.0\myModel.runtimeconfig.json
+C:\Users\Raymond\Desktop\Netcore\practice\myModel\bin\Debug\netcoreapp2.0\myModel.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\Netcore\practice\myModel\bin\Debug\netcoreapp2.0\myModel.dll
+C:\Users\Raymond\Desktop\Netcore\practice\myModel\bin\Debug\netcoreapp2.0\myModel.pdb
+C:\Users\Raymond\Desktop\Netcore\practice\myModel\obj\Debug\netcoreapp2.0\myModel.csprojResolveAssemblyReference.cache
+C:\Users\Raymond\Desktop\Netcore\practice\myModel\obj\Debug\netcoreapp2.0\myModel.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\myModel\obj\Debug\netcoreapp2.0\myModel.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\myModel\obj\Debug\netcoreapp2.0\myModel.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\Netcore\practice\myModel\obj\Debug\netcoreapp2.0\myModel.dll
+C:\Users\Raymond\Desktop\Netcore\practice\myModel\obj\Debug\netcoreapp2.0\myModel.pdb
