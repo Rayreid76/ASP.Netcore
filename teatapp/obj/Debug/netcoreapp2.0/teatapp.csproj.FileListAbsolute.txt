@@ -1,0 +1,11 @@
+C:\Users\Raymond\Desktop\Netcore\practice\teatapp\bin\Debug\netcoreapp2.0\teatapp.deps.json
+C:\Users\Raymond\Desktop\Netcore\practice\teatapp\bin\Debug\netcoreapp2.0\teatapp.runtimeconfig.json
+C:\Users\Raymond\Desktop\Netcore\practice\teatapp\bin\Debug\netcoreapp2.0\teatapp.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\Netcore\practice\teatapp\bin\Debug\netcoreapp2.0\teatapp.dll
+C:\Users\Raymond\Desktop\Netcore\practice\teatapp\bin\Debug\netcoreapp2.0\teatapp.pdb
+C:\Users\Raymond\Desktop\Netcore\practice\teatapp\obj\Debug\netcoreapp2.0\teatapp.csprojResolveAssemblyReference.cache
+C:\Users\Raymond\Desktop\Netcore\practice\teatapp\obj\Debug\netcoreapp2.0\teatapp.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\teatapp\obj\Debug\netcoreapp2.0\teatapp.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\teatapp\obj\Debug\netcoreapp2.0\teatapp.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\Netcore\practice\teatapp\obj\Debug\netcoreapp2.0\teatapp.dll
+C:\Users\Raymond\Desktop\Netcore\practice\teatapp\obj\Debug\netcoreapp2.0\teatapp.pdb
