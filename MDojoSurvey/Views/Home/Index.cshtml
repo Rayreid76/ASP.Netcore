@@ -7,23 +7,20 @@
     <title>Document</title>
 </head>
 <body>
+    @model LangSurvey
     <h1>Dojo Survey</h1>
     <hr>
     <fieldset>
-        <form action="/survey" method="post">
-            <label for="Name">Full Name:</label><br>
-            <input type="text" name="FullName" placeholder="Enter Here"><br>
-            <label for="Location">Location:</label><br>
-            <select name="DojoLocation"><br>
-                <option value="San Jose">San Jose</option>
-                <option value="Seattle">Seattle</option>
-                <option value="New York">New York</option>
-                <option value="Chicago">Chicago</option>
-                <option value="Atlanta">Atlanta</option>
-                <option value="Online">Online</option>
-            </select><br>
-            <label for="Language">Favorite Language:</label><br>
-            <select name="Language"><br>
+        <form asp-action="/survey" asp-controller="Home" method="post">
+            <span asp-validation-for="FullName"></span>
+            <label asp-for="FullName"></label><br>
+            <input asp-for="FullName"><br>
+            <span asp-validation-for="DojoLocation"></span>
+            <label asp-for="DojoLocation"></label><br>
+            <input asp-for="DojoLocation"><br>
+            <span asp-validation-for="Language"></span>
+            <label asp-for="Language"></label><br>
+            <select asp-for="Language"><br>
                 <option value="Python">Python</option>
                 <option value="C#">C#</option>
                 <option value="Java Script">JavaScript</option>
@@ -31,8 +28,9 @@
                 <option value="HTML">HTML</option>
                 <option value="F#">F#</option>
             </select><br>
-            <label for="Comment">Comment:</label><br>
-            <textarea name="Comment" cols="30" rows="10" placeholder="Optional"></textarea><br>
+            <span asp-validation-for="Comment"></span>
+            <label asp-for="Comment">Comment:</label><br>
+            <textarea asp-for="Comment" cols="30" rows="10"></textarea><br>
             <input type="submit" value="Submit">
             
         </form>

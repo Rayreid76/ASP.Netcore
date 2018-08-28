@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model langSurvey
+
+
+<div class="container">
+    <h1 class="page-header text-center">Dojo Survey</h1>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-action="Create" asp-controller="Home" method="post">
+                <div class="form-group">
+                    <span asp-validation-for="FullName" class="label label-warning"></span>
+                    <label>Full Name</label>
+                    <input asp-for="FullName">
+                </div>
+                <div class="form-group">
+                    <span asp-validation-for="dojoLocation" class="label label-warning"></span>
+                    <label>Location</label>
+                    <input asp-for="dojoLocation">
+                </div>
+                <div class="form-group">
+                    <span asp-validation-for="Language" class="label label-warning"></span>
+                    <label>Programming Language</label>
+                    <input asp-for="Language">
+                </div>
+                <div class="form-group">
+                    <span asp-validation-for="Comment" class="label label-warning"></span>
+                    <label>Message</label>
+                    <textarea class="form-control" asp-for="Comment" placeholder="Add Message"></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+
+</div>

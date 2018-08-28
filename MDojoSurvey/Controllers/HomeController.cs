@@ -4,6 +4,7 @@ namespace MDojoSurvey
 {
     public class HomeController : Controller
     {
+        
         [HttpGet("")]
         public IActionResult Index()
         {
@@ -12,6 +13,7 @@ namespace MDojoSurvey
         [HttpPost("survey")]
         public IActionResult DojoSurvey(LangSurvey mysurvey)
         {
+            
             return Json(mysurvey);
         }
     }

@@ -1,0 +1,11 @@
+C:\Users\Raymond\Desktop\Netcore\practice\survey\bin\Debug\netcoreapp2.0\survey.deps.json
+C:\Users\Raymond\Desktop\Netcore\practice\survey\bin\Debug\netcoreapp2.0\survey.runtimeconfig.json
+C:\Users\Raymond\Desktop\Netcore\practice\survey\bin\Debug\netcoreapp2.0\survey.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\Netcore\practice\survey\bin\Debug\netcoreapp2.0\survey.dll
+C:\Users\Raymond\Desktop\Netcore\practice\survey\bin\Debug\netcoreapp2.0\survey.pdb
+C:\Users\Raymond\Desktop\Netcore\practice\survey\obj\Debug\netcoreapp2.0\survey.csprojResolveAssemblyReference.cache
+C:\Users\Raymond\Desktop\Netcore\practice\survey\obj\Debug\netcoreapp2.0\survey.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\survey\obj\Debug\netcoreapp2.0\survey.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\survey\obj\Debug\netcoreapp2.0\survey.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\Netcore\practice\survey\obj\Debug\netcoreapp2.0\survey.dll
+C:\Users\Raymond\Desktop\Netcore\practice\survey\obj\Debug\netcoreapp2.0\survey.pdb
