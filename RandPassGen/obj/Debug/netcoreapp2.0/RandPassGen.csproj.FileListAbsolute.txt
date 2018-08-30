@@ -1,0 +1,11 @@
+C:\Users\Raymond\Desktop\Netcore\practice\RandPassGen\bin\Debug\netcoreapp2.0\RandPassGen.deps.json
+C:\Users\Raymond\Desktop\Netcore\practice\RandPassGen\bin\Debug\netcoreapp2.0\RandPassGen.runtimeconfig.json
+C:\Users\Raymond\Desktop\Netcore\practice\RandPassGen\bin\Debug\netcoreapp2.0\RandPassGen.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\Netcore\practice\RandPassGen\bin\Debug\netcoreapp2.0\RandPassGen.dll
+C:\Users\Raymond\Desktop\Netcore\practice\RandPassGen\bin\Debug\netcoreapp2.0\RandPassGen.pdb
+C:\Users\Raymond\Desktop\Netcore\practice\RandPassGen\obj\Debug\netcoreapp2.0\RandPassGen.csprojResolveAssemblyReference.cache
+C:\Users\Raymond\Desktop\Netcore\practice\RandPassGen\obj\Debug\netcoreapp2.0\RandPassGen.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\RandPassGen\obj\Debug\netcoreapp2.0\RandPassGen.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\RandPassGen\obj\Debug\netcoreapp2.0\RandPassGen.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\Netcore\practice\RandPassGen\obj\Debug\netcoreapp2.0\RandPassGen.dll
+C:\Users\Raymond\Desktop\Netcore\practice\RandPassGen\obj\Debug\netcoreapp2.0\RandPassGen.pdb
