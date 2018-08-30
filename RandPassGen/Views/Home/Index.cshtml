@@ -5,12 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="~/style.css">
+    <style>
+        p{
+            display: inline-block;
+            vertical-align: top;
+        }
+    </style>
     <title>Password Generator</title>
 </head>
 <body>
     <h1>Welcome to the Password Generator!!</h1>
     <h3>Number Attemps: @ViewBag.Visits</h3>
     <a href="/submit"><button>Submit</button></a>
-    <h1>@ViewBag.PassCode</h1>
+    @foreach(var letter in ViewBag.PassCode)
+    {
+        <p>@letter</p>
+    }
 </body>
 </html>

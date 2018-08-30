@@ -16,18 +16,25 @@ namespace RandPassGen.Controllers
         {
             
             Random rand = new Random();
-            char[] p = {
+            char[] password = {
                 'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','!','#','$','&','(',')'
             };
-            char[] password =
-            p;
-            for(var i = 0; i > 14; i++)
+            int[] t = new int[14];
+            char[] samp = new char[14];
+            for(var i = 0; i < 14; i++)
             {
-                int pIndex = rand.Next(password.Length);
-                Temp = password[pIndex];
+                t[i] = rand.Next(password.Length);
+                samp[i] = password[t[i]];
             }
             
-            ViewBag.PassCode = password[pIndex];
+
+
+
+            // int t = rand.Next(password.Length);
+            //   samp = password[t];
+
+
+            ViewBag.PassCode = samp;
 
             if(_countinsessin == null)
                 HttpContext.Session.SetInt32("Visit", 0);
