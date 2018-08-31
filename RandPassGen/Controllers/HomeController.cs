@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
 
@@ -16,18 +17,18 @@ namespace RandPassGen.Controllers
         {
             
             Random rand = new Random();
-            char[] p = {
-                'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','!','#','$','&','(',')'
+            char[] password = {
+                'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','!','#','$','&','(',')','1','2','3','4','5','6','7','8','9','0'
             };
-            char[] password =
-            p;
-            for(var i = 0; i > 14; i++)
+            List<int> t = new List<int>();
+            List<char> sample = new List<char>();
+            for(int idx = 0; idx < 14; idx++)
             {
-                int pIndex = rand.Next(password.Length);
-                Temp = password[pIndex];
+                t.Add(rand.Next(0, password.Length));
+                sample.Add(password[t[idx]]);
             }
             
-            ViewBag.PassCode = password[pIndex];
+            ViewBag.PassCode = sample;
 
             if(_countinsessin == null)
                 HttpContext.Session.SetInt32("Visit", 0);

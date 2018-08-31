@@ -8,9 +8,21 @@
     <title>Password Generator</title>
 </head>
 <body>
-    <h1>Welcome to the Password Generator!!</h1>
-    <h3>Number Attemps: @ViewBag.Visits</h3>
-    <a href="/submit"><button>Submit</button></a>
-    <h1>@ViewBag.PassCode</h1>
+    <div class="header">
+        <h1>Welcome to the Password Generator!!</h1>
+        <h3>Number of Attemps: @ViewBag.Visits</h3>
+    </div>
+    <div class="box-cent">
+        <h3>14 Character Password</h3>
+        <fieldset>
+            @foreach(var letter in ViewBag.PassCode)
+            {
+                <p>@letter</p>
+            }
+            <br>
+            <a href="/submit"><button>Submit</button></a>
+        </fieldset>
+    </div>
+    
 </body>
 </html>

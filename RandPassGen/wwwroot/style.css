@@ -1,0 +1,22 @@
+body{
+    color: aliceblue;
+    background-color: rgb(37, 37, 37);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header{
+    padding-left: 125px;
+}
+.header h3{
+    padding: 35px 0px 15px 95px;
+}
+.box-cent{
+    width: 250px;
+    margin: 20px 0px 0px 200px;
+}
+.box-cent h3{
+    margin-left: 20px;
+}
+.box-cent p{
+    display: inline-block;
+    vertical-align: top;
+}
