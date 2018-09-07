@@ -1,0 +1,11 @@
+C:\Users\Raymond\Desktop\Netcore\practice\DojoQuotes\bin\Debug\netcoreapp2.0\DojoQuotes.deps.json
+C:\Users\Raymond\Desktop\Netcore\practice\DojoQuotes\bin\Debug\netcoreapp2.0\DojoQuotes.runtimeconfig.json
+C:\Users\Raymond\Desktop\Netcore\practice\DojoQuotes\bin\Debug\netcoreapp2.0\DojoQuotes.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\Netcore\practice\DojoQuotes\bin\Debug\netcoreapp2.0\DojoQuotes.dll
+C:\Users\Raymond\Desktop\Netcore\practice\DojoQuotes\bin\Debug\netcoreapp2.0\DojoQuotes.pdb
+C:\Users\Raymond\Desktop\Netcore\practice\DojoQuotes\obj\Debug\netcoreapp2.0\DojoQuotes.csprojResolveAssemblyReference.cache
+C:\Users\Raymond\Desktop\Netcore\practice\DojoQuotes\obj\Debug\netcoreapp2.0\DojoQuotes.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\DojoQuotes\obj\Debug\netcoreapp2.0\DojoQuotes.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\DojoQuotes\obj\Debug\netcoreapp2.0\DojoQuotes.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\Netcore\practice\DojoQuotes\obj\Debug\netcoreapp2.0\DojoQuotes.dll
+C:\Users\Raymond\Desktop\Netcore\practice\DojoQuotes\obj\Debug\netcoreapp2.0\DojoQuotes.pdb
