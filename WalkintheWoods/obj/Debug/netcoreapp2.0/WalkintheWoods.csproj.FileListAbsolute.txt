@@ -1,0 +1,11 @@
+C:\Users\raymond\Desktop\DojoAssignments\netCore\WalkintheWoods\bin\Debug\netcoreapp2.0\WalkintheWoods.deps.json
+C:\Users\raymond\Desktop\DojoAssignments\netCore\WalkintheWoods\bin\Debug\netcoreapp2.0\WalkintheWoods.runtimeconfig.json
+C:\Users\raymond\Desktop\DojoAssignments\netCore\WalkintheWoods\bin\Debug\netcoreapp2.0\WalkintheWoods.runtimeconfig.dev.json
+C:\Users\raymond\Desktop\DojoAssignments\netCore\WalkintheWoods\bin\Debug\netcoreapp2.0\WalkintheWoods.dll
+C:\Users\raymond\Desktop\DojoAssignments\netCore\WalkintheWoods\bin\Debug\netcoreapp2.0\WalkintheWoods.pdb
+C:\Users\raymond\Desktop\DojoAssignments\netCore\WalkintheWoods\obj\Debug\netcoreapp2.0\WalkintheWoods.csprojResolveAssemblyReference.cache
+C:\Users\raymond\Desktop\DojoAssignments\netCore\WalkintheWoods\obj\Debug\netcoreapp2.0\WalkintheWoods.csproj.CoreCompileInputs.cache
+C:\Users\raymond\Desktop\DojoAssignments\netCore\WalkintheWoods\obj\Debug\netcoreapp2.0\WalkintheWoods.AssemblyInfoInputs.cache
+C:\Users\raymond\Desktop\DojoAssignments\netCore\WalkintheWoods\obj\Debug\netcoreapp2.0\WalkintheWoods.AssemblyInfo.cs
+C:\Users\raymond\Desktop\DojoAssignments\netCore\WalkintheWoods\obj\Debug\netcoreapp2.0\WalkintheWoods.dll
+C:\Users\raymond\Desktop\DojoAssignments\netCore\WalkintheWoods\obj\Debug\netcoreapp2.0\WalkintheWoods.pdb
