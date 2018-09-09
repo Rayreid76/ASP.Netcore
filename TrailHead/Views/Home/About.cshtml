@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Add a Trail";
+}
+<h2>@ViewData["Title"]</h2>
+@model Trail
+
+
+    <!-- FORMS -->
+<div class="container">
+    <form asp-action="AddTrail" asp-controller="Home" method="POST">
+        <div class="form-group">
+            <span asp-validation-for="Name" class="bg-warning"></span><br>
+            <label asp-for="Name"></label><br>
+            <input asp-for="Name" class="form-control">
+        </div>
+
+        <div class="form-group">
+            <span asp-validation-for="Describtion" class="bg-warning"></span><br>
+            <label asp-for="Describtion"></label><br>
+            <textarea asp-for="Describtion" class="form-control"></textarea>
+        </div>
+        <div class="form-group">
+            <span asp-validation-for="Miles" class="bg-warning"></span><br>
+            <label asp-for="Miles"></label><br>
+            <input asp-for="Miles" class="form-control">
+        </div>
+        <div class="form-group">
+            <span asp-validation-for="Elevation" class="bg-warning"></span><br>
+            <label asp-for="Elevation"></label><br>
+            <input asp-for="Elevation" class="form-control">
+        </div>
+        <div class="form-group">
+            <span asp-validation-for="Longitude" class="bg-warning"></span><br>
+            <label asp-for="Longitude"></label><br>
+            <input asp-for="Longitude" class="form-control">
+        </div>
+        <div class="form-group">
+            <span asp-validation-for="Latitude" class="bg-warning"></span><br>
+            <label asp-for="Latitude"></label><br>
+            <input asp-for="Latitude" class="form-control">
+        </div>
+        <input type="submit" class="btn btn-primary" value="Add Trail">
+    </form>
+
+
+</div>

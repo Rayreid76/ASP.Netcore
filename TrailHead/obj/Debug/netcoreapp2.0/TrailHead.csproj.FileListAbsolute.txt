@@ -1,0 +1,10 @@
+C:\Users\Raymond\Desktop\Netcore\practice\TrailHead\bin\Debug\netcoreapp2.0\TrailHead.deps.json
+C:\Users\Raymond\Desktop\Netcore\practice\TrailHead\bin\Debug\netcoreapp2.0\TrailHead.runtimeconfig.json
+C:\Users\Raymond\Desktop\Netcore\practice\TrailHead\bin\Debug\netcoreapp2.0\TrailHead.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\Netcore\practice\TrailHead\bin\Debug\netcoreapp2.0\TrailHead.dll
+C:\Users\Raymond\Desktop\Netcore\practice\TrailHead\bin\Debug\netcoreapp2.0\TrailHead.pdb
+C:\Users\Raymond\Desktop\Netcore\practice\TrailHead\obj\Debug\netcoreapp2.0\TrailHead.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\TrailHead\obj\Debug\netcoreapp2.0\TrailHead.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\Netcore\practice\TrailHead\obj\Debug\netcoreapp2.0\TrailHead.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\Netcore\practice\TrailHead\obj\Debug\netcoreapp2.0\TrailHead.dll
+C:\Users\Raymond\Desktop\Netcore\practice\TrailHead\obj\Debug\netcoreapp2.0\TrailHead.pdb

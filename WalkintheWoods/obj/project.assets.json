@@ -12743,28 +12743,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\raymond\\.nuget\\packages\\": {},
+    "C:\\Users\\Raymond\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\raymond\\Desktop\\DojoAssignments\\netCore\\WalkintheWoods\\WalkintheWoods.csproj",
+      "projectUniqueName": "C:\\Users\\Raymond\\Desktop\\Netcore\\practice\\WalkintheWoods\\WalkintheWoods.csproj",
       "projectName": "WalkintheWoods",
-      "projectPath": "C:\\Users\\raymond\\Desktop\\DojoAssignments\\netCore\\WalkintheWoods\\WalkintheWoods.csproj",
-      "packagesPath": "C:\\Users\\raymond\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\raymond\\Desktop\\DojoAssignments\\netCore\\WalkintheWoods\\obj\\",
+      "projectPath": "C:\\Users\\Raymond\\Desktop\\Netcore\\practice\\WalkintheWoods\\WalkintheWoods.csproj",
+      "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Raymond\\Desktop\\Netcore\\practice\\WalkintheWoods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\raymond\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Raymond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
